@@ -1372,7 +1372,7 @@ WC2HumanAct01Antonidas03
 STRING 4030
 // Items: IL05 (WC2HumanAct01DaelinProudmoore01), Tip (Tooltip - Basic)
 {
-Admiral Proudmoore
+Admirál Proudmoore
 }
 
 STRING 4032
@@ -1384,7 +1384,7 @@ WC2HumanAct01DaelinProudmoore01
 STRING 4033
 // Items: IL06 (WC2HumanAct01DaelinProudmoore02), Tip (Tooltip - Basic)
 {
-Admiral Proudmoore
+Admirál Proudmoore
 }
 
 STRING 4034
@@ -1402,7 +1402,7 @@ WC2HumanAct01DaelinProudmoore02
 STRING 4036
 // Items: IL07 (WC2HumanAct01DaelinProudmoore03), Tip (Tooltip - Basic)
 {
-Admiral Proudmoore
+Admirál Proudmoore
 }
 
 STRING 4037
@@ -1468,7 +1468,7 @@ WC2HumanAct01Danath03
 STRING 4048
 // Items: IL11 (WC2HumanAct01Gavinrad01), Tip (Tooltip - Basic)
 {
-Gavinrad the Dire
+Gavinrad Dire
 }
 
 STRING 4049
@@ -1558,7 +1558,7 @@ WC2HumanAct01Graymane04
 STRING 4063
 // Items: IL16 (WC2HumanAct01Guard01), Tip (Tooltip - Basic)
 {
-Kings Guard
+Královská stráž
 }
 
 STRING 4064
@@ -1966,7 +1966,7 @@ WC2HumanAct01Lothar23
 STRING 4144
 // Items: IL43 (WC2HumanAct01Marcus01), Tip (Tooltip - Basic)
 {
-Mayor Marcus
+Starosta Markus
 }
 
 STRING 4145
@@ -1984,7 +1984,7 @@ WC2HumanAct01Marcus01
 STRING 4147
 // Items: IL44 (WC2HumanAct01Marcus02), Tip (Tooltip - Basic)
 {
-Mayor Marcus
+Starosta Markus
 }
 
 STRING 4148
@@ -2002,7 +2002,7 @@ WC2HumanAct01Marcus02
 STRING 4150
 // Items: IL45 (WC2HumanAct01Marcus03), Tip (Tooltip - Basic)
 {
-Mayor Marcus
+Starosta Markus
 }
 
 STRING 4151

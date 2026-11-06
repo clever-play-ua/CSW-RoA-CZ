@@ -5,7 +5,7 @@ WC2Human02
 
 STRING 3
 {
-Ambush at Tarren Mill
+Přepadení u Tarrenova Mlýna
 }
 
 STRING 4
@@ -447,7 +447,7 @@ WC2Human02Danath19
 STRING 113
 // Items: IL20 (WC2Human02Gavinrad01), Tip (Tooltip - Basic)
 {
-Gavinrad the Dire
+Gavinrad Dire
 }
 
 STRING 114
@@ -465,7 +465,7 @@ WC2Human02Gavinrad01
 STRING 116
 // Items: IL21 (WC2Human02Gavinrad02), Tip (Tooltip - Basic)
 {
-Gavinrad the Dire
+Gavinrad Dire
 }
 
 STRING 117
@@ -483,7 +483,7 @@ WC2Human02Gavinrad02
 STRING 119
 // Items: IL22 (WC2Human02Gavinrad03), Tip (Tooltip - Basic)
 {
-Gavinrad the Dire
+Gavinrad Dire
 }
 
 STRING 121
@@ -495,7 +495,7 @@ WC2Human02Gavinrad03
 STRING 122
 // Items: IL24 (WC2Human02Gavinrad04), Tip (Tooltip - Basic)
 {
-Gavinrad the Dire
+Gavinrad Dire
 }
 
 STRING 123
@@ -513,7 +513,7 @@ WC2Human02Gavinrad04
 STRING 125
 // Items: IL25 (WC2Human02Gavinrad05), Tip (Tooltip - Basic)
 {
-Gavinrad the Dire
+Gavinrad Dire
 }
 
 STRING 126
@@ -645,7 +645,7 @@ WC2Human02ElvenArcher04
 STRING 158
 // Items: IL32 (WC2Human02ElvenArcher01), Tip (Tooltip - Basic)
 {
-Elven Captain
+Elfský kapitán
 }
 
 STRING 160
@@ -657,7 +657,7 @@ WC2Human02ElvenCaptain01
 STRING 161
 // Items: IL33 (WC2Human02ElvenArcher02), Tip (Tooltip - Basic)
 {
-Elven Captain
+Elfský kapitán
 }
 
 STRING 163
@@ -669,7 +669,7 @@ WC2Human02ElvenCaptain02
 STRING 164
 // Items: IL38 (WC2Human02Milan01), Tip (Tooltip - Basic)
 {
-Milan the Scribe
+Milan Písař
 }
 
 STRING 165
@@ -687,7 +687,7 @@ WC2Human02Milan01
 STRING 167
 // Items: IL39 (WC2Human02Milan02), Tip (Tooltip - Basic)
 {
-Milan the Scribe
+Milan Písař
 }
 
 STRING 168
@@ -705,7 +705,7 @@ WC2Human02Milan02
 STRING 170
 // Items: IL40 (WC2Human02OrcCaptain01), Tip (Tooltip - Basic)
 {
-Orc Captain
+Orkský kapitán
 }
 
 STRING 171
@@ -723,7 +723,7 @@ WC2Human02OrcCaptain01
 STRING 173
 // Items: IL41 (WC2Human02Prisoner01), Tip (Tooltip - Basic)
 {
-Prisoner
+Zajatec
 }
 
 STRING 174
@@ -741,7 +741,7 @@ WC2Human02Prisoner01
 STRING 176
 // Items: IL42 (WC2Human02Prisoner02), Tip (Tooltip - Basic)
 {
-Prisoner
+Zajatec
 }
 
 STRING 177
@@ -759,7 +759,7 @@ WC2Human02Prisoner02
 STRING 179
 // Items: IL43 (WC2Human02Prisoner03), Tip (Tooltip - Basic)
 {
-Prisoner
+Zajatec
 }
 
 STRING 180
@@ -777,7 +777,7 @@ WC2Human02Prisoner03
 STRING 182
 // Items: IL44 (WC2Human02Prisoner04), Tip (Tooltip - Basic)
 {
-Prisoner
+Zajatec
 }
 
 STRING 183
@@ -795,7 +795,7 @@ WC2Human02Prisoner04
 STRING 185
 // Items: IL45 (WC2Human02Defender01), Tip (Tooltip - Basic)
 {
-Regional Defender
+Místní obránce
 }
 
 STRING 186
@@ -813,7 +813,7 @@ WC2Human02Defender01
 STRING 188
 // Items: IL46 (WC2Human02Defender02), Tip (Tooltip - Basic)
 {
-Regional Defender
+Místní obránce
 }
 
 STRING 189
@@ -831,7 +831,7 @@ WC2Human02Defender02
 STRING 191
 // Items: IL47 (WC2Human02Defender03), Tip (Tooltip - Basic)
 {
-Regional Defender
+Místní obránce
 }
 
 STRING 192
@@ -849,7 +849,7 @@ WC2Human02Defender03
 STRING 194
 // Items: IL48 (WC2Human02Orc01), Tip (Tooltip - Basic)
 {
-Drunk Orc
+Opilý ork
 }
 
 STRING 195
@@ -885,7 +885,7 @@ WC2Human02Orc02
 STRING 200
 // Items: IL50 (WC2Human02Peon01), Tip (Tooltip - Basic)
 {
-Peon
+Peón
 }
 
 STRING 202
@@ -897,7 +897,7 @@ WC2Human02Peon01
 STRING 203
 // Items: IL51 (WC2Human02Peon02), Tip (Tooltip - Basic)
 {
-Peon
+Peón
 }
 
 STRING 205
@@ -1405,73 +1405,73 @@ To byl náš původní cíl, ale ústí řeky střeží trollští ničitelé. B
 STRING 314
 // Units: nchp (Nobbel the Pious), Name (Name)
 {
-Nobbel the Pious
+Nobbel Zbožný
 }
 
 STRING 315
 // Items: IL26 (WC2Human02Nobbel01), Tip (Tooltip - Basic)
 {
-Nobbel the Pious
+Nobbel Zbožný
 }
 
 STRING 316
 // Items: IL27 (WC2Human02Nobbel02), Tip (Tooltip - Basic)
 {
-Nobbel the Pious
+Nobbel Zbožný
 }
 
 STRING 317
 // Items: IL28 (WC2Human02Nobbel03), Tip (Tooltip - Basic)
 {
-Nobbel the Pious
+Nobbel Zbožný
 }
 
 STRING 318
 // Items: IL29 (WC2Human02Nobbel04), Tip (Tooltip - Basic)
 {
-Nobbel the Pious
+Nobbel Zbožný
 }
 
 STRING 319
 // Items: IL30 (WC2Human02Nobbel05), Tip (Tooltip - Basic)
 {
-Nobbel the Pious
+Nobbel Zbožný
 }
 
 STRING 320
 // Items: IL34 (WC2Human02ElvenArcher03), Tip (Tooltip - Basic)
 {
-Elven Captain
+Elfský kapitán
 }
 
 STRING 321
 // Items: IL35 (WC2Human02ElvenArcher04), Tip (Tooltip - Basic)
 {
-Elven Captain
+Elfský kapitán
 }
 
 STRING 322
 // Items: IL36 (WC2Human02ElvenCaptain01), Tip (Tooltip - Basic)
 {
-Elven Captain
+Elfský kapitán
 }
 
 STRING 323
 // Items: IL37 (WC2Human02ElvenCaptain02), Tip (Tooltip - Basic)
 {
-Elven Captain
+Elfský kapitán
 }
 
 STRING 324
 // Items: IL31 (WC2Human02Nobbel06), Tip (Tooltip - Basic)
 {
-Nobbel the Pious
+Nobbel Zbožný
 }
 
 STRING 327
 // Items: IL52 (WC2Human02Peon03), Tip (Tooltip - Basic)
 {
-Peon
+Peón
 }
 
 STRING 328

@@ -625,7 +625,7 @@ WC2Human04Wilhelm_Zombies01
 STRING 2481
 // Items: IL13 (WC2Human04Milan_Zombies01), Tip (Tooltip - Basic)
 {
-Milan the Scribe
+Milan Písař
 }
 
 STRING 2482
@@ -643,7 +643,7 @@ WC2Human04Milan_Zombies01
 STRING 2484
 // Items: IL03 (WC2Human04Gavinrad_Intro01), Tip (Tooltip - Basic)
 {
-Gavinrad the Dire
+Gavinrad Dire
 }
 
 STRING 2486
@@ -667,7 +667,7 @@ WC2Human04Lothar_Zombies01
 STRING 2490
 // Items: IL15 (WC2Human04Gavinrad_Zombies01), Tip (Tooltip - Basic)
 {
-Gavinrad the Dire
+Gavinrad Dire
 }
 
 STRING 2491
@@ -685,7 +685,7 @@ WC2Human04Gavinrad_Zombies02
 STRING 2493
 // Items: IL16 (WC2Human04Gavinrad_Zombies02), Tip (Tooltip - Basic)
 {
-Gavinrad the Dire
+Gavinrad Dire
 }
 
 STRING 2495
@@ -793,7 +793,7 @@ WC2Human04Lothar_Prepare01
 STRING 2514
 // Items: IL17 (WC2Human04Gavinrad_Zombies03), Tip (Tooltip - Basic)
 {
-Gavinrad the Dire
+Gavinrad Dire
 }
 
 STRING 2515
@@ -811,7 +811,7 @@ WC2Human04Gavinrad_Prepare01
 STRING 2517
 // Items: IL25 (WC2Human04Milan_Prepare01), Tip (Tooltip - Basic)
 {
-Milan the Scribe
+Milan Písař
 }
 
 STRING 2518
@@ -1129,7 +1129,7 @@ WC2Human04Lothar_Outro02
 STRING 2583
 // Items: IL24 (WC2Human04Gavinrad_Prepare01), Tip (Tooltip - Basic)
 {
-Gavinrad the Dire
+Gavinrad Dire
 }
 
 STRING 2585
@@ -1350,12 +1350,12 @@ Zničit tábor Bloodscribe
 
 STRING 2702
 {
-Lothar must survive.
+Lothar musí přežít
 }
 
 STRING 2703
 {
-Danath must survive.
+Danath musí přežít
 }
 
 STRING 2708
@@ -1744,7 +1744,7 @@ Zajistit pobřeží
 
 STRING 2816
 {
-Remaining enemies:
+Zbývající nepřátelé:
 }
 
 STRING 2817
@@ -1976,7 +1976,7 @@ Vlajek k umístění do kruhu:
 
 STRING 2878
 {
-Flags to put in a circle:
+Vlajek k umístění do kruhu:
 }
 
 STRING 2879
@@ -2418,7 +2418,7 @@ WC2Human04Lothar_Outro02A
 STRING 3045
 // Items: IL76 (WC2Human02Prisoner02), Tip (Tooltip - Basic)
 {
-Prisoner
+Zajatec
 }
 
 STRING 3046
@@ -2436,7 +2436,7 @@ WC2Human02Prisoner02
 STRING 3048
 // Items: IL77 (WC2Human02Prisoner04), Tip (Tooltip - Basic)
 {
-Prisoner
+Zajatec
 }
 
 STRING 3049
@@ -2454,7 +2454,7 @@ WC2Human02Prisoner04
 STRING 3051
 // Items: IL78 (WC2Human02Prisoner03), Tip (Tooltip - Basic)
 {
-Prisoner
+Zajatec
 }
 
 STRING 3052
@@ -2895,7 +2895,7 @@ Postavit 4 ropné plošiny (postaveno 3 z 4 )
 
 STRING 3138
 {
-Build 4 Oil Plarforms.
+Postavit 4 ropné plošiny
 }
 
 STRING 3139
@@ -2957,19 +2957,19 @@ STRING 3155
 STRING 3156
 // Items: IL51 (WC2Human04Gavinrad_Outro01), Tip (Tooltip - Basic)
 {
-Gavinrad the Dire
+Gavinrad Dire
 }
 
 STRING 3157
 // Items: IL71 (WC2Human04Gavinrad_Ambush01), Tip (Tooltip - Basic)
 {
-Gavinrad the Dire
+Gavinrad Dire
 }
 
 STRING 3158
 // Items: IL79 (WC2Human02Defender01), Tip (Tooltip - Basic)
 {
-Man at Arms
+Zbrojnoš
 }
 
 STRING 3159

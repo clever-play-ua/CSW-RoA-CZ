@@ -1,6 +1,6 @@
 ﻿STRING 1
 {
-Rise of the Alliance
+Rise of the Alliance 1.03 CZ 0.1
 }
 
 STRING 2
@@ -945,7 +945,7 @@ Abilities: Burning Oil
 
 STRING 294
 {
-Peon
+Peón
 }
 
 STRING 295
@@ -1381,7 +1381,7 @@ STRING 400
 
 STRING 401
 {
-Zuluhed the Whacked
+Zuluhed
 }
 
 STRING 402
@@ -1558,7 +1558,7 @@ Grunt,Initiate,Novice,Pupil,Apprentice,Slasher,Shaman,Captain,Overseer,Champion,
 
 STRING 446
 {
-Orc Pirate
+Orkský pirát
 }
 
 STRING 447
@@ -1847,7 +1847,7 @@ Train Enthralled
 
 STRING 520
 {
-Peon
+Peón
 }
 
 STRING 521
@@ -9632,6 +9632,8 @@ Shirt of Knowledge
 STRING 3012
 {
 Lord Lothar, velitel rozptýlených armád Azerothu od smrti krále Llanea, přivedl svůj lid přes Velké moře k břehům Lordaeronu.
+
+Český překlad: Anton Dragonpride (Discord: adragonpride)
 }
 
 STRING 3014
@@ -19933,7 +19935,7 @@ Teron Gorefiend lets loose a terrifying howl that causes nearby enemy units to s
 
 STRING 5610
 {
-Zuluhed the Whacked
+Zuluhed
 }
 
 STRING 5611
@@ -26113,7 +26115,7 @@ Milan Písař
 
 STRING 7134
 {
-Milan the Scribe
+Milan Písař
 }
 
 STRING 7135

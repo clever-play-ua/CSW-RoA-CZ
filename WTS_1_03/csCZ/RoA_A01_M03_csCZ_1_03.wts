@@ -405,7 +405,7 @@ WC2Human03Teron_Announcement1
 STRING 199
 // Items: IL12 (WC2Human03Zuluhed_Announcement1), Tip (Tooltip - Basic)
 {
-Zuluhed the Whacked
+Zuluhed
 }
 
 STRING 200
@@ -2691,7 +2691,7 @@ Vztyčení magického generátoru za:
 
 STRING 727
 {
-Setting up magical generator in:
+Vztyčení magického generátoru za:
 }
 
 STRING 728
@@ -2760,7 +2760,7 @@ Protiútok
 STRING 740
 // Units: nDam (Dam), Name (Name)
 {
-Dam
+Hráz
 }
 
 STRING 741
@@ -3014,7 +3014,7 @@ Hm... Mohl bych použít sudy s ropou na odlákání pozornosti...
 STRING 795
 // Items: IL88 (WC2Human03Peon_Barrels01), Tip (Tooltip - Basic)
 {
-Peon
+Peón
 }
 
 STRING 796
@@ -3256,7 +3256,7 @@ WC2Human03Krasus_Dam2
 STRING 842
 // Items: IL87 (WC2Human03Grunt_Barrels01), Tip (Tooltip - Basic)
 {
-Grunt
+Žump
 }
 
 STRING 843
