@@ -1,0 +1,128 @@
+{
+  "RoA_GLOBAL_HEROES_MTS_001": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Milan the Scribe",
+    "csCZ": "Milan Písař"
+  },
+  "RoA_GLOBAL_HEROES_MTS_002": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Milan the Scribe",
+    "csCZ": "Milan Písař"
+  },
+  "RoA_GLOBAL_HEROES_UTL_002": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lord Paladin",
+    "csCZ": "Lord Paladin"
+  },
+  "RoA_GLOBAL_HEROES_UTL_003": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lord Paladin",
+    "csCZ": "Lord Paladin"
+  },
+  "RoA_GLOBAL_HEROES_UTL_004": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lord Paladin",
+    "csCZ": "Lord Paladin"
+  },
+  "RoA_GLOBAL_HEROES_WIL_021": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Gavinrad the Dire",
+    "csCZ": "Gavinrad Dire"
+  },
+  "RoA_GLOBAL_MENU_002": {
+    "type": "MENU",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Sir Lothar, in charge of the scattered armies of Azeroth since the death of King Llane, has led his people across the Great Sea to the shores of Lordaeron.",
+    "csCZ": "Lord Lothar, velitel rozptýlených armád Azerothu od smrti krále Llanea, přivedl svůj lid přes Velké moře k břehům Lordaeronu."
+  },
+  "RoA_GLOBAL_MENU_004": {
+    "type": "MENU",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Cinematic Act I",
+    "csCZ": "První dějství"
+  },
+  "RoA_GLOBAL_MENU_005": {
+    "type": "MENU",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lordaeron",
+    "csCZ": "Lordaeron"
+  },
+  "RoA_GLOBAL_MENU_006": {
+    "type": "MENU",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Chapter One",
+    "csCZ": "Kapitola první"
+  },
+  "RoA_GLOBAL_MENU_007": {
+    "type": "MENU",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Battle for Lordaeron",
+    "csCZ": "Bitva o Lordaeron"
+  },
+  "RoA_GLOBAL_MENU_008": {
+    "type": "MENU",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Chapter Two",
+    "csCZ": "Kapitola druhá"
+  },
+  "RoA_GLOBAL_MENU_009": {
+    "type": "MENU",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Ambush at Tarren Mill",
+    "csCZ": "Přepadení u Tarrenova Mlýna"
+  },
+  "RoA_GLOBAL_MENU_010": {
+    "type": "MENU",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Chapter Three",
+    "csCZ": "Kapitola třetí"
+  },
+  "RoA_GLOBAL_MENU_011": {
+    "type": "MENU",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Siege of Dalaran",
+    "csCZ": "Obléhání Dalaranu"
+  },
+  "RoA_GLOBAL_MENU_012": {
+    "type": "MENU",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Chapter Four",
+    "csCZ": "Kapitola čtvrtá"
+  },
+  "RoA_GLOBAL_UNITS_013": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Regional Defender",
+    "csCZ": "Místní obránce"
+  },
+  "RoA_GLOBAL_UNITS_015": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Man at Arms",
+    "csCZ": "Zbrojnoš"
+  }
+}

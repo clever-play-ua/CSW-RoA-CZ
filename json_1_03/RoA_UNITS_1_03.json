@@ -1,0 +1,202 @@
+{
+  "N/A": {
+    "enUS": "N/A",
+    "csCZ": "N/A"
+  },
+  "SYS": {
+    "enUS": "SYSTEM",
+    "csCZ": "SYSTEM"
+  },
+  "APR": {
+    "enUS": "Admiral Proudmoore",
+    "csCZ": "Admirál Proudmoore"
+  },
+  "APE": {
+    "enUS": "Aiden Perenolde",
+    "csCZ": "Aiden Perenolde"
+  },
+  "AFA": {
+    "enUS": "Alonsus Faol",
+    "csCZ": "Alonsus Faol"
+  },
+  "ALO": {
+    "enUS": "Anduin Lothar",
+    "csCZ": "Anduin Lothar"
+  },
+  "ANT": {
+    "enUS": "Antonidas",
+    "csCZ": "Antonidas"
+  },
+  "ART": {
+    "enUS": "Arthas",
+    "csCZ": "Arthas"
+  },
+  "RBL": {
+    "enUS": "Dal’Rend Blackhand",
+    "csCZ": "Dal’Rend Blackhand"
+  },
+  "DTR": {
+    "enUS": "Danath Trollbane",
+    "csCZ": "Danath Trollbane"
+  },
+  "DPR": {
+    "enUS": "Derek Proudmoore",
+    "csCZ": "Derek Proudmoore"
+  },
+  "DRE": {
+    "enUS": "Drenden",
+    "csCZ": "Drenden"
+  },
+  "DRO": {
+    "enUS": "Drunk Orc",
+    "csCZ": "Opilý ork"
+  },
+  "GTD": {
+    "enUS": "Gavinrad the Dire",
+    "csCZ": "Gavinrad Dire"
+  },
+  "GGR": {
+    "enUS": "Genn Graymane",
+    "csCZ": "Genn Graymane"
+  },
+  "GRU": {
+    "enUS": "Grunt",
+    "csCZ": "Žump"
+  },
+  "KTH": {
+    "enUS": "Kel’Thuzad",
+    "csCZ": "Kel’Thuzad"
+  },
+  "KHA": {
+    "enUS": "Khadgar",
+    "csCZ": "Khadgar"
+  },
+  "KGU": {
+    "enUS": "Kings Guard",
+    "csCZ": "Královská stráž"
+  },
+  "KRA": {
+    "enUS": "Krasus",
+    "csCZ": "Krasus"
+  },
+  "KWI": {
+    "enUS": "Kurdran Wildhammer",
+    "csCZ": "Kurdran Wildhammer"
+  },
+  "LDC": {
+    "enUS": "Lord Darius Crowley",
+    "csCZ": "Lord Darius Crowley"
+  },
+  "MBL": {
+    "enUS": "Maim Blackhand",
+    "csCZ": "Maim Blackhand"
+  },
+  "MAA": {
+    "enUS": "Man at Arms",
+    "csCZ": "Zbrojnoš"
+  },
+  "MAM": {
+    "enUS": "Mayor Marcus",
+    "csCZ": "Starosta Markus"
+  },
+  "MER": {
+    "enUS": "Meryn",
+    "csCZ": "Meryn"
+  },
+  "MTS": {
+    "enUS": "Milan the Scribe",
+    "csCZ": "Milan Písař"
+  },
+  "MOD": {
+    "enUS": "Modera",
+    "csCZ": "Modera"
+  },
+  "MBR": {
+    "enUS": "Muradin Bronzebeard",
+    "csCZ": "Muradin Bronzebeard"
+  },
+  "NTP": {
+    "enUS": "Nobbel the Pious",
+    "csCZ": "Nobbel Zbožný"
+  },
+  "OCA": {
+    "enUS": "Orc Captain",
+    "csCZ": "Orkský kapitán"
+  },
+  "PEO": {
+    "enUS": "Peon",
+    "csCZ": "Peón"
+  },
+  "PRI": {
+    "enUS": "Prisoner",
+    "csCZ": "Zajatec"
+  },
+  "RDE": {
+    "enUS": "Regional Defender",
+    "csCZ": "Místní obránce"
+  },
+  "RET": {
+    "enUS": "Retera",
+    "csCZ": "Retera"
+  },
+  "TGO": {
+    "enUS": "Teron Gorefiend",
+    "csCZ": "Teron Gorefiend"
+  },
+  "TTR": {
+    "enUS": "Thoras Trollbane",
+    "csCZ": "Thoras Trollbane"
+  },
+  "TUR": {
+    "enUS": "Turalyon",
+    "csCZ": "Turalyon"
+  },
+  "UTL": {
+    "enUS": "Uther Lightbringer",
+    "csCZ": "Uther Světlonoš"
+  },
+  "USC": {
+    "enUS": "Utok Scratcher",
+    "csCZ": "Utok Scratcher"
+  },
+  "VWR": {
+    "enUS": "Varian Wrynn",
+    "csCZ": "Varian Wrynn"
+  },
+  "WIL": {
+    "enUS": "Wilhelm",
+    "csCZ": "Wilhelm"
+  },
+  "ZTW": {
+    "enUS": "Zuluhed the Whacked",
+    "csCZ": "Zuluhed"
+  },
+  "TME": {
+    "enUS": "Terenas Menethil II",
+    "csCZ": "Terenas Menethil II"
+  },
+  "ODO": {
+    "enUS": "Orgrim Doomhammer",
+    "csCZ": "Orgrim Doomhammer"
+  },
+  "THA": {
+    "enUS": "Tharbek",
+    "csCZ": "Tharbek"
+  },
+  "KOG": {
+    "enUS": "Korkron Orge Guard",
+    "csCZ": "Kor'kronská ogří stráž"
+  },
+  "ECA": {
+    "enUS": "Elven Captain",
+    "csCZ": "Elfský kapitán"
+  },
+  "KSU": {
+    "enUS": "Kael'thas Sunstrider",
+    "csCZ": "Kael'thas Sunstrider"
+  },
+  "OPI": {
+    "enUS": "Orc Pirate",
+    "csCZ": "Orkský pirát"
+  }
+}

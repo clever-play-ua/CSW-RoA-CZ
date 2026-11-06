@@ -1,0 +1,919 @@
+{
+  "RoA_A01_M02_MESS_001": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cff8080ffNEW HERO|r\nDanath - captain of Anduin Lothar and nephew of the king Thoras Trollbane. Excellent warrior that can bash enemies with his shield and boost friendly units attack rate with his shouts.",
+    "csCZ": "|cff8080ffNOVÝ HRDINA|r\nDanath – kapitán Anduina Lothara a synovec krále Thorase Trollbanea. Vynikající válečník, který dokáže svým štítem omráčit nepřátele a pokřiky zvýšit rychlost útoku spojeneckých jednotek."
+  },
+  "RoA_A01_M02_MESS_002": {
+    "type": "MESS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cff8080ffNEW SEMI HERO|r\nGavinrad - is one of the Azerothien veterans, who became the paladin of the Silver Hand order. Able to restore friendly units health with \"Healing Word\" and boost their melee attack with \"Vengeance Aura\".",
+    "csCZ": "|cff8080ffNOVÝ POLOHRDINA|r\nGavinrad – je jedním z veteránů Azerothu, který se stal paladinem řádu Stříbrné ruky. Dokáže obnovovat zdraví spřátelených jednotek pomocí kouzla „Slovo uzdravení“ a posilovat jejich útok nablízko pomocí „Aura pomsty“."
+  },
+  "RoA_A01_M02_OBJE_001": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Help the Villagers",
+    "csCZ": "Pomoc vesničanům"
+  },
+  "RoA_A01_M02_OBJE_002": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Southshore’s surviving citizens are still in danger. You must clear the nearby villages of orcish raiders to ensure their safety.",
+    "csCZ": "Přeživší obyvatelé Southshoru jsou stále v nebezpečí. Musíte zbavit okolní vesnice orkských nájezdníků, abyste zajistili jejich bezpečnost."
+  },
+  "RoA_A01_M02_OBJE_003": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST|r\nHelp the Villagers\n - Retake 7 Farms\n - Danath must survive",
+    "csCZ": "|cffffcc00HLAVNÍ ÚKOL|r\nPomoc vesničanům\n - Znovu dobýt 7 farem\n - Danath musí přežít"
+  },
+  "RoA_A01_M02_OBJE_004": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST COMPLETED|r\nHelp the Villagers",
+    "csCZ": "|cffffcc00AKTUALIZACE HLAVNÍHO ÚKOLU|r\nPomoc vesničanům"
+  },
+  "RoA_A01_M02_OBJE_005": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Retake 7 Farms",
+    "csCZ": "Znovu dobýt 7 farem"
+  },
+  "RoA_A01_M02_OBJE_006": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Danath must survive",
+    "csCZ": "Danath musí přežít"
+  },
+  "RoA_A01_M02_OBJE_007": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Retake 7 Farms (0 / 7)",
+    "csCZ": "Znovu dobýt 7 farem (0 / 7)"
+  },
+  "RoA_A01_M02_OBJE_008": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Retake 7 Farms (1 / 7)",
+    "csCZ": "Znovu dobýt 7 farem (1 / 7)"
+  },
+  "RoA_A01_M02_OBJE_009": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Retake 7 Farms (2 / 7)",
+    "csCZ": "Znovu dobýt 7 farem (2 / 7)"
+  },
+  "RoA_A01_M02_OBJE_010": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Retake 7 Farms (3 / 7)",
+    "csCZ": "Znovu dobýt 7 farem (3 / 7)"
+  },
+  "RoA_A01_M02_OBJE_011": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Retake 7 Farms (4 / 7)",
+    "csCZ": "Znovu dobýt 7 farem (4 / 7)"
+  },
+  "RoA_A01_M02_OBJE_012": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Retake 7 Farms (5 / 7)",
+    "csCZ": "Znovu dobýt 7 farem (5 / 7)"
+  },
+  "RoA_A01_M02_OBJE_013": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Retake 7 Farms (6 / 7)",
+    "csCZ": "Znovu dobýt 7 farem (6 / 7)"
+  },
+  "RoA_A01_M02_OBJE_014": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST FAILED|r\nHelp the Villagers\n - |cffff0000Danath must Survive (Failed)|r",
+    "csCZ": "|cffffcc00HLAVNÍ ÚKOL NESPLNĚN|r\nPomoc vesničanům\n - |cffff0000Danath musí přežít (Neúspěch)|r"
+  },
+  "RoA_A01_M02_OBJE_015": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Southshore",
+    "csCZ": "Southshore"
+  },
+  "RoA_A01_M02_OBJE_016": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "The town lies in ruins after the orcish onslaught. Restore it to serve as a stronghold for Anduin Lothar’s army, and prepare the land for the coming battles.",
+    "csCZ": "Město leží v troskách po nájezdu orků. Obnovte ho, aby sloužilo jako pevnost pro armádu Anduina Lothara, a připravte území na nadcházející bitvy."
+  },
+  "RoA_A01_M02_OBJE_017": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST|r\nSouthshore\n - Repair Town Hall\n - Repair Barracks",
+    "csCZ": "|cffffcc00HLAVNÍ ÚKOL|r\nSouthshore\n - Opravit radnici\n - Opravit kasárna"
+  },
+  "RoA_A01_M02_OBJE_018": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST COMPLETED|r\nSouthshore",
+    "csCZ": "|cffffcc00HLAVNÍ ÚKOL SPLNĚN|r\nSouthshore"
+  },
+  "RoA_A01_M02_OBJE_019": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nSouthshore\n - |cff808080Repair Town Hall (Completed)|r\n - Repair Barracks",
+    "csCZ": "|cffffcc00AKTUALIZACE HLAVNÍHO ÚKOLU|r\nSouthshore\n - |cff808080 - Opravit radnici (Hotovo)|r\n - Opravit kasárna"
+  },
+  "RoA_A01_M02_OBJE_020": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nSouthshore\n - Repair Town Hall\n - |cff808080Repair Barracks (Completed)|r",
+    "csCZ": "|cffffcc00AKTUALIZACE HLAVNÍHO ÚKOLU|r\nSouthshore\n - Opravit radnici\n - |cff808080Opravit kasárna (Hotovo)|r"
+  },
+  "RoA_A01_M02_OBJE_021": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Repair Town Hall",
+    "csCZ": "Opravit radnici"
+  },
+  "RoA_A01_M02_OBJE_022": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Repair Barracks",
+    "csCZ": "Opravit kasárna"
+  },
+  "RoA_A01_M02_OBJE_023": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Reinforce the Navy",
+    "csCZ": "Posílení loďstva"
+  },
+  "RoA_A01_M02_OBJE_024": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "The elves’ brethren remain in enemy hands, and only a stronger fleet can bring them to safety. Expand your navy and prepare to strike across the waters.",
+    "csCZ": "Bratři a sestry elfů zůstávají v rukou nepřítele a pouze silnější flotila je může dostat do bezpečí. Rozšiřte své loďstvo a připravte se na útok přes vodu."
+  },
+  "RoA_A01_M02_OBJE_025": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Build Lumber Mill",
+    "csCZ": "Postavit pilu"
+  },
+  "RoA_A01_M02_OBJE_026": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Build Shipyard",
+    "csCZ": "Postavit loděnici"
+  },
+  "RoA_A01_M02_OBJE_027": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Build Oil Rig",
+    "csCZ": "Postavit ropnou plošinu"
+  },
+  "RoA_A01_M02_OBJE_028": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Destroy orc shipyard",
+    "csCZ": "Zničit loděnice orků"
+  },
+  "RoA_A01_M02_OBJE_029": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Destroy enemy ships",
+    "csCZ": "Zničit nepřátelské lodě"
+  },
+  "RoA_A01_M02_OBJE_030": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST|r\nReinforce the Navy\n - Build Lumber Mill\n - Build Shipyard\n - Build Oil Rig\n - Destroy orc shipyard\n - Destroy enemy ships",
+    "csCZ": "|cffffcc00HLAVNÍ ÚKOL|r\nPosílení loďstva\n - Postavit pilu\n - Postavit loděnici\n - Postavit ropnou plošinu\n - Zničit loděnice orků\n - Zničit nepřátelské lodě"
+  },
+  "RoA_A01_M02_OBJE_031": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST COMPLETED|r\nReinforce the Navy",
+    "csCZ": "|cffffcc00HLAVNÍ ÚKOL SPLNĚN|r\nPosílení loďstva"
+  },
+  "RoA_A01_M02_OBJE_032": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nReinforce the Navy\n - |cff808080Build Shipyard (Completed)|r",
+    "csCZ": "|cffffcc00AKTUALIZACE HLAVNÍHO ÚKOLU|r\nPosílení loďstva\n - |cff808080Postavit loděnici (Hotovo)|r"
+  },
+  "RoA_A01_M02_OBJE_033": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nReinforce the Navy\n - |cff808080Build Lumber Mill (Completed)|r",
+    "csCZ": "|cffffcc00AKTUALIZACE HLAVNÍHO ÚKOLU|r\nPosílení loďstva\n - |cff808080Postavit pilu (Hotovo)|r"
+  },
+  "RoA_A01_M02_OBJE_034": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nReinforce the Navy\n - |cff808080Build Oil Rig (Completed)|r",
+    "csCZ": "|cffffcc00AKTUALIZACE HLAVNÍHO ÚKOLU|r\nPosílení loďstva\n - |cff808080Postavit ropnou plošinu (Hotovo)|r"
+  },
+  "RoA_A01_M02_OBJE_035": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nReinforce the Navy\n - |cff808080Destroy enemy ships (Completed)|r",
+    "csCZ": "|cffffcc00AKTUALIZACE HLAVNÍHO ÚKOLU|r\nPosílení loďstva\n - |cff808080ЗZničit nepřátelské lodě (Hotovo)|r"
+  },
+  "RoA_A01_M02_OBJE_036": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nReinforce the Navy\n - |cff808080Destroy orc shipyard (Completed)|r",
+    "csCZ": "|cffffcc00AKTUALIZACE HLAVNÍHO ÚKOLU|r\nPosílení loďstva\n - |cff808080Zničit loděnice orků (Hotovo)|r"
+  },
+  "RoA_A01_M02_OBJE_037": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Dangerous River",
+    "csCZ": "Nebezpečná řeka"
+  },
+  "RoA_A01_M02_OBJE_038": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Sail north toward Tarren Mill, but beware! The river may be patrolled by the Horde navy. Proceed with caution and keep your fleet ready for battle.",
+    "csCZ": "Plujte na sever směrem k Tarrenovu Mlýnu, ale buďte opatrní! Na řece mohou hlídkovat lodě Hordy. Postupujte opatrně a udržujte svou flotilu v bojové pohotovosti."
+  },
+  "RoA_A01_M02_OBJE_039": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Reach the circle of Power.",
+    "csCZ": "Dostat se do kruhu moci"
+  },
+  "RoA_A01_M02_OBJE_040": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "At least 1 ship must survive.",
+    "csCZ": "Musí přežít alespoň 1 loď"
+  },
+  "RoA_A01_M02_OBJE_041": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST|r\nDangerous River\n - Reach the circle of Power\n - At least 1 ship must survive",
+    "csCZ": "|cffffcc00HLAVNÍ ÚKOL|r\nNebezpečná řeka\n - Dostat se do kruhu moci\n - Musí přežít alespoň 1 loď"
+  },
+  "RoA_A01_M02_OBJE_042": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST COMPLETED|r\nDangerous River",
+    "csCZ": "|cffffcc00HLAVNÍ ÚKOL SPLNĚN|r\nNebezpečná řeka"
+  },
+  "RoA_A01_M02_OBJE_043": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST FAILED|r\nDangerous River\n - |cffff0000At least 1 ship should survive (Failed)|r",
+    "csCZ": "|cffffcc00HLAVNÍ ÚKOL NESPLNĚN|r\nNebezpečná řeka\n  - |cffff0000Musí přežít alespoň 1 loď (Neúspěch)|r"
+  },
+  "RoA_A01_M02_OBJE_044": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Elven Allies",
+    "csCZ": "Elfští spojenci"
+  },
+  "RoA_A01_M02_OBJE_045": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Elven captives are held in a camp at Tarren Mill. Break their chains and bring them to safety, their aid will be invaluable in the battles to come.",
+    "csCZ": "Elfští zajatci jsou drženi v táboře u Tarrenova Mlýna. Rozbijte jejich řetězy a doveďte je do bezpečí – jejich pomoc bude v nadcházejících bitvách neocenitelná."
+  },
+  "RoA_A01_M02_OBJE_046": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Kill all Prison camp Guards",
+    "csCZ": "Zabít všechny stráže vězeňského tábora"
+  },
+  "RoA_A01_M02_OBJE_047": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Danath must Survive.",
+    "csCZ": "Danath musí přežít"
+  },
+  "RoA_A01_M02_OBJE_048": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST|r\nElven Allies\n - Kill all Prison camp Guards\n - Danath must Survive",
+    "csCZ": "|cffffcc00HLAVNÍ ÚKOL|r\nElfští spojenci\n - Zabít všechny stráže vězeňského tábora\n - Danath musí přežít"
+  },
+  "RoA_A01_M02_OBJE_049": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST COMPLETED|r\nElven Allies",
+    "csCZ": "|cffffcc00HLAVNÍ ÚKOL SPLNĚN|r\nElfští spojenci"
+  },
+  "RoA_A01_M02_OBJE_050": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST FAILED|r\nElven Allies\n - |cffff0000Danath must Survive (Failed)|r",
+    "csCZ": "|cffffcc00HLAVNÍ ÚKOL NESPLNĚN|r\nElfští spojenci\n - |cffff0000Danath musí přežít (Neúspěch)|r"
+  },
+  "RoA_A01_M02_OBJE_051": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nElven Allies\n - Enter the Circle of Power and free Milan the Scribe",
+    "csCZ": "|cffffcc00AKTUALIZACE HLAVNÍHO ÚKOLU|r\nElfští spojenci\n - Vstoupit do Kruhu moci a osvobodit Milana Písaře"
+  },
+  "RoA_A01_M02_OBJE_052": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Enter the Circle of Power and free Milan the Scribe.",
+    "csCZ": "Vstoupit do Kruhu moci a osvobodit Milana Písaře"
+  },
+  "RoA_A01_M02_OBJE_053": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MISSION FAILED|r",
+    "csCZ": "|cffffcc00MISE BYLA NEÚSPĚŠNÁ|r"
+  },
+  "RoA_A01_M02_OBJE_054": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Prison Camps",
+    "csCZ": "Vězeňské tábory"
+  },
+  "RoA_A01_M02_OBJE_055": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Local villagers who survived the orcish assault have been imprisoned for slave labor. Free them from their chains, and they will join your cause.",
+    "csCZ": "Místní vesničané, kteří přežili útok orků, byli uvězněni a jsou nuceni k otrocké práci. Osvoboďte je z okovů a připojí se k vaší věci."
+  },
+  "RoA_A01_M02_OBJE_056": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Free 4 prisoners (0/4 freed)",
+    "csCZ": "Osvobodit 4 vězně (0/4 osvobozeno)"
+  },
+  "RoA_A01_M02_OBJE_057": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00OPTIONAL QUEST|r\nPrison Camps\n - Free 4 prisoners",
+    "csCZ": "|cffffcc00DOBROVOLNÝ ÚKOL|r\nVězeňské tábory\n - Osvobodit 4 vězně"
+  },
+  "RoA_A01_M02_OBJE_058": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00OPTIONAL QUEST COMPLETED|r\nPrison Camps",
+    "csCZ": "|cffffcc00DOBROVOLNÝ ÚKOL SPLNĚN|r\nVězeňské tábory"
+  },
+  "RoA_A01_M02_OBJE_059": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Free 4 prisoners",
+    "csCZ": "Osvobodit 4 vězně"
+  },
+  "RoA_A01_M02_OBJE_060": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Free 4 prisoners (3/4 freed)",
+    "csCZ": "Osvobodit 4 vězně (3 ze 4 osvobozeno)"
+  },
+  "RoA_A01_M02_OBJE_061": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Free 4 prisoners (2/4 freed)",
+    "csCZ": "Osvobodit 4 vězně (2 ze 4 osvobozeno)"
+  },
+  "RoA_A01_M02_OBJE_062": {
+    "type": "OBJE",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Free 4 prisoners (1/4 freed)",
+    "csCZ": "Osvobodit 4 vězně (1 ze 4 osvobozeno)"
+  },
+  "RoA_A01_M02_SCRN_001": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Quest Objectives",
+    "csCZ": "Cíle úkolu"
+  },
+  "RoA_A01_M02_SCRN_002": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Farms left to retake:",
+    "csCZ": "Zbývá osvobodit farem:"
+  },
+  "RoA_A01_M02_SCRN_003": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Troll Destroyers left:",
+    "csCZ": "Zbývá trollských ničitelu:"
+  },
+  "RoA_A01_M02_SCRN_004": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00TECHTREE UNLOCKED|r\nElven Lumber Mill - The Elves offered their superior skills in service to the Alliance, providing more efficient means for processing lumber.",
+    "csCZ": "|cffffcc00ODEMČENÝ STROM TECHNOLOGIÍ|r\nElfská pila – Elfové nabídli Alianci své vynikající řemeslné dovednosti a poskytli jí efektivnější způsoby zpracování dřeva."
+  },
+  "RoA_A01_M02_SCRN_005": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00TECHTREE UNLOCKED|r\nElven Archers -  descendants of the elder race of Highbornes, these sylvan woodsmen are unmatched in their use of the bow.",
+    "csCZ": "|cffffcc00ODEMČENÝ STROM TECHNOLOGIÍ|r\nElfští lučištníci – Potomci starobylé rasy Urozených, tito lesní hraničáři jsou v lukostřelbě naprosto bezkonkurenční."
+  },
+  "RoA_A01_M02_SCRN_006": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00TECHTREE UNLOCKED|r\nShipyards are primarily responsible for constructing various warships within the Alliance's naval forces. They also serve as depots for harvested oil.",
+    "csCZ": "|cffffcc00ODEMČENÝ STROM TECHNOLOGIÍ|r\nLoděnice - Mají na starosti především stavbu různých válečných lodí pro námořní síly Aliance. Slouží také jako sklady pro vytěženou ropu."
+  },
+  "RoA_A01_M02_SCRN_007": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00TECHTREE UNLOCKED|r\nElven Destroyers are powerful warships from the fleets of Quel'thalas. Crewed with highly-skilled Elven seafarers, these swift-sailing vessels are prepared to engage the enemy wherever they may be found.",
+    "csCZ": "|cffffcc00ODEMČENÝ STROM TECHNOLOGIÍ|r\nElfští ničitelé - Mocné válečné lodě z flotil Quel'thalasu. Tyto rychlá plavidla, na nichž slouží vysoce zkušení elfští mořeplavci, jsou připravena zaútočit na nepřítele, ať už se nachází kdekoli."
+  },
+  "RoA_A01_M02_SCRN_008": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Prisoners left:",
+    "csCZ": "Zbývající vězni:"
+  },
+  "RoA_A01_M02_SCRN_009": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Nation of Alterac",
+    "csCZ": "Národ z Alteracu"
+  },
+  "RoA_A01_M02_SCRN_010": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Blackrock Clan",
+    "csCZ": "Klan Blackrock"
+  },
+  "RoA_A01_M02_SCRN_011": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Nation of Lordaeron",
+    "csCZ": "Národ z Lordaeronu"
+  },
+  "RoA_A01_M02_SCRN_012": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Nation of Stromgarde",
+    "csCZ": "Národ ze Stromgardu"
+  },
+  "RoA_A01_M02_SCRN_013": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Rangers of Quel’Thalas",
+    "csCZ": "Hraničáři z Quel’Thalasu"
+  },
+  "RoA_A01_M02_SCRN_014": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Horde",
+    "csCZ": "Horda"
+  },
+  "RoA_A01_M02_SCRN_015": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Alliance",
+    "csCZ": "Aliance"
+  },
+  "RoA_A01_M02_SCRN_016": {
+    "type": "SCRN",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Captain of Blackrock Clan",
+    "csCZ": "Kapitán klanu Blackrock"
+  },
+  "RoA_A01_M02_VO_S001_001": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "The Horde was here… everywhere these bastards go, they spread death and destruction… I should’ve been in Stromgarde when they laid siege to it…and my father would’ve...",
+    "csCZ": "Horda už tu byla… kamkoli se ti bastardi vydají, šíří smrt a zkázu… Měl jsem být ve Stromgarde, když ho obléhali… a můj otec by pak…"
+  },
+  "RoA_A01_M02_VO_S001_002": {
+    "type": "VO",
+    "unit_id": "GTD",
+    "unit_name": "Gavinrad the Dire",
+    "enUS": "Captain, we need to search for supplies, our men are running low on food and water.",
+    "csCZ": "Kapitáne, musíme se poohlédnout po zásobách, našim mužům dochází jídlo a voda."
+  },
+  "RoA_A01_M02_VO_S001_003": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "Let's check this cellar, maybe there is something.",
+    "csCZ": "Podívejme se do tohohle sklepa, třeba tam něco najdeme."
+  },
+  "RoA_A01_M02_VO_S001_004": {
+    "type": "VO",
+    "unit_id": "GTD",
+    "unit_name": "Gavinrad the Dire",
+    "enUS": "Captain Danath, we have survivors!",
+    "csCZ": "Kapitáne Danathe, máme tu přeživší!"
+  },
+  "RoA_A01_M02_VO_S001_005": {
+    "type": "VO",
+    "unit_id": "NTP",
+    "unit_name": "Nobbel the Pious",
+    "enUS": "Greetings! We’ve been hiding here from those greenskinned beasts. They plundered Southshore and have settled in ravaged villages nearby.",
+    "csCZ": "Buďte pozdraveni! Schovávali jsme se tady před těmi zelenokožnými bestiemi. Vydrancovaly Southshore a usadily se v okolních zpustošených vesnicích."
+  },
+  "RoA_A01_M02_VO_S001_006": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "That’s what savage mongrels do. Men, let’s pay them a visit!",
+    "csCZ": "Nic jiného ta divoká verbež ani neumí. Muži, pojďme jim oplatit návštěvu!"
+  },
+  "RoA_A01_M02_VO_S002_001": {
+    "type": "VO",
+    "unit_id": "SYS",
+    "unit_name": "Storyline text",
+    "enUS": "I can write a tale about you.",
+    "csCZ": "Mohl bych o vás napsat příběh."
+  },
+  "RoA_A01_M02_VO_S002_002": {
+    "type": "VO",
+    "unit_id": "SYS",
+    "unit_name": "Storyline text",
+    "enUS": "No one ever listens…",
+    "csCZ": "Nikdo nikdy neposlouchá…"
+  },
+  "RoA_A01_M02_VO_S002_003": {
+    "type": "VO",
+    "unit_id": "SYS",
+    "unit_name": "Storyline text",
+    "enUS": "Stay a while and listen.",
+    "csCZ": "Chvíli se zdrž a poslouchej."
+  },
+  "RoA_A01_M02_VO_S003_001": {
+    "type": "VO",
+    "unit_id": "DRO",
+    "unit_name": "Drunk Orc",
+    "enUS": "Humanz… ehk, Kill them!",
+    "csCZ": "Lidí... hyk, Zabít je!"
+  },
+  "RoA_A01_M02_VO_S003_002": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "Filthy creature, my sword will sober you up!",
+    "csCZ": "Ty špinavá stvůro, můj meč tě rychle vystřízliví!"
+  },
+  "RoA_A01_M02_VO_S004_001": {
+    "type": "VO",
+    "unit_id": "PEO",
+    "unit_name": "Peon",
+    "enUS": "Please! No hurt!",
+    "csCZ": "Prosím! Neubližuj mi!"
+  },
+  "RoA_A01_M02_VO_S005_001": {
+    "type": "VO",
+    "unit_id": "DRO",
+    "unit_name": "Drunk Orc",
+    "enUS": "The humans are attacking! Kill them!",
+    "csCZ": "Lidé útočí! Zabijte je!"
+  },
+  "RoA_A01_M02_VO_S005_002": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "I’ll never get tired of killing this scum!",
+    "csCZ": "Zabíjení téhle chátry mě nikdy neomrzí!"
+  },
+  "RoA_A01_M02_VO_S006_001": {
+    "type": "VO",
+    "unit_id": "PEO",
+    "unit_name": "Peon",
+    "enUS": "Hey! Quit disturbing me, me need wipe wipe!",
+    "csCZ": "Hej! Neruš mě, potřebuju utřít utřít!"
+  },
+  "RoA_A01_M02_VO_S006_002": {
+    "type": "VO",
+    "unit_id": "PEO",
+    "unit_name": "Peon",
+    "enUS": "Zug zug zug, Argh! Hey! Ow, me need alone time!",
+    "csCZ": "Zug zug zug, Argh! Hej! Au, potřebuju soukromí!"
+  },
+  "RoA_A01_M02_VO_S007_001": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "The orcs will bother you no more, old man. We have secured a perimeter around Southshore.",
+    "csCZ": "Orkové už tě nebudou obtěžovat, starče. Zajistili jsme okolí Southshoru."
+  },
+  "RoA_A01_M02_VO_S007_002": {
+    "type": "VO",
+    "unit_id": "NTP",
+    "unit_name": "Nobbel the Pious",
+    "enUS": "Thank you, brave commander. Please stay a while and get some rest. We have some food and supplies that we can share with your soldiers.",
+    "csCZ": "Děkuji vám, statečný veliteli. Zůstaňte prosím ještě chvíli a odpočiňte si. Máme nějaké jídlo a zásoby, o které se můžeme podělit s vašimi vojáky."
+  },
+  "RoA_A01_M02_VO_S007_003": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "I have a better idea. Give us a couple of strong workers and we will rebuild the town hall together. This town can be a perfect base for the Alliance army that is marching in this direction.",
+    "csCZ": "Mám lepší nápad. Dejte nám pár silných dělníků a společně znovu postavíme radnici. Tohle město může sloužit jako ideální základna pro armádu Aliance, která míří tímto směrem."
+  },
+  "RoA_A01_M02_VO_S007_004": {
+    "type": "VO",
+    "unit_id": "NTP",
+    "unit_name": "Nobbel the Pious",
+    "enUS": "Very well, everything you need, sir.",
+    "csCZ": "Dobrá tedy, vše, co potřebujete, pane."
+  },
+  "RoA_A01_M02_VO_S008_001": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "Well, well, the mysterious elves of Silvermoon. What a surprise to see you here…",
+    "csCZ": "Ale podívejme, tajemní elfové ze Silvermoonu. To je ale překvapení, vás tu vidět…"
+  },
+  "RoA_A01_M02_VO_S008_002": {
+    "type": "VO",
+    "unit_id": "ECA",
+    "unit_name": "Elven Captain",
+    "enUS": "Greetings, human. We were sent here to rescue a contingent of archers headed to Dalaran. Our spies report that shortly after passing through the Alterac grasslands, they were ambushed by Horde troops. We believe that they are now held in a small prison camp near the northwest region of Tarren Mill.",
+    "csCZ": "Zdravím, člověče. Byli jsme sem vysláni, abychom zachránili oddíl lučištníků směřujících do Dalaranu. Naši zvědové hlásí, že krátce po průchodu alterackými pastvinami byli přepadeni jednotkami Hordy. Domníváme se, že jsou nyní drženi v malém zajateckém táboře poblíž severozápadní části Tarrenova Mlýna."
+  },
+  "RoA_A01_M02_VO_S008_003": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "To reach Tarren Mill, you have to sail up the Darrowmere River, yet you landed here.",
+    "csCZ": "Abyste se dostali do Tarrenova Mlýna, musíte se plavit proti proudu řeky Darrowmere, přesto jste přistáli tady."
+  },
+  "RoA_A01_M02_VO_S008_004": {
+    "type": "VO",
+    "unit_id": "",
+    "unit_name": "Elven Captain",
+    "enUS": "That was our destination, but troll destroyers are guarding the river mouth. We can’t defeat those without reinforcements.",
+    "csCZ": "To byl náš původní cíl, ale ústí řeky střeží trollští ničitelé. Bez posil je nedokážeme porazit."
+  },
+  "RoA_A01_M02_VO_S008_005": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "Trolls…I see. I can help you, but on one condition, elf.",
+    "csCZ": "Trollové… Chápu. Můžu vám pomoci, ale pod jednou podmínkou, elfe."
+  },
+  "RoA_A01_M02_VO_S008_006": {
+    "type": "VO",
+    "unit_id": "",
+    "unit_name": "Elven Captain",
+    "enUS": "I’m listening.",
+    "csCZ": "Poslouchám."
+  },
+  "RoA_A01_M02_VO_S008_007": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "I will be the man in charge of this operation.",
+    "csCZ": "Téhle operaci budu velet já."
+  },
+  "RoA_A01_M02_VO_S008_008": {
+    "type": "VO",
+    "unit_id": "ECA",
+    "unit_name": "Elven Captain",
+    "enUS": "Very well. Our sylvan craftsman will build an elven lumber mill. With it, we can build more ships quickly.",
+    "csCZ": "Dobrá tedy. Náši lesní řemeslníci postaví elfskou pilu. S ní dokážeme rychle postavit další lodě."
+  },
+  "RoA_A01_M02_VO_S009_001": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "These rivers used to bring commerce throughout the kingdoms, now they’re polluted with the stench of beasts and savages.",
+    "csCZ": "Tyhle řeky kdysi zajišťovaly obchod napříč královstvími, teď jsou znečištěné zápachem stvůr a divochů."
+  },
+  "RoA_A01_M02_VO_S009_002": {
+    "type": "VO",
+    "unit_id": "ECA",
+    "unit_name": "Elven Captain",
+    "enUS": "I couldn’t agree more, our forward scouts have warned us of many orcish watch posts looming on both sides of the river, and the troll destroyers are ever vigilant.",
+    "csCZ": "Nemohu než souhlasit, naši předsunutí zvědové nás varovali před mnoha orkskými strážnými stanovišti, která se tyčí na obou březích řeky, a trollští ničitelé jsou neustále ve střehu."
+  },
+  "RoA_A01_M02_VO_S009_003": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "I hope you elves are as good battling on the sea as you are with magic, otherwise, I may have delivered me and my men an early death.",
+    "csCZ": "Doufám, že vy elfové jste v boji na moři stejně dobří jako v magii, jinak jsem sebe i své muže možná poslal na předčasnou smrt."
+  },
+  "RoA_A01_M02_VO_S009_004": {
+    "type": "VO",
+    "unit_id": "ECA",
+    "unit_name": "Elven Captain",
+    "enUS": "Ha! Fear not, human, you will not die on my watch. Not today.",
+    "csCZ": "Ha! Neboj se, člověče, pod mým dohledem nezemřeš. Ne dnes."
+  },
+  "RoA_A01_M02_VO_S010_001": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "Kul'tiran ships… They were destroyed by the dragons when Admiral Proudmoore tried to retake Southshore…",
+    "csCZ": "Kul'tiranské lodě… Byly zničeny draky, když se admirál Proudmoore pokusil znovu dobýt Southshore…"
+  },
+  "RoA_A01_M02_VO_S011_001": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "We are approaching Tarren Mill. Careful now, I bet the orcs there are much better prepared than the ones we saw in Southshore.",
+    "csCZ": "Blížíme se k Tarrenovu Mlýnu. Teď buďte opatrní. Vsadím se, že tamní orkové jsou mnohem lépe připraveni než ti, které jsme viděli v Southshoru."
+  },
+  "RoA_A01_M02_VO_S011_002": {
+    "type": "VO",
+    "unit_id": "GTD",
+    "unit_name": "Gavinrad the Dire",
+    "enUS": "We have learned there are more survivors held captive in the woods around Tarren Mill. The orcs are using them as forced labor.",
+    "csCZ": "Zjistili jsme, že v lesích kolem Tarrenova Mlýna drží v zajetí další přeživší. Orkové je využívají na nucenou práci."
+  },
+  "RoA_A01_M02_VO_S011_003": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "Then we must help them. These poor fellows must have endured too much. Once we get there, you’ll see to it.",
+    "csCZ": "V tom případě jim musíme pomoct. Ti chudáci si už museli vytrpět víc než dost. Až se tam dostaneme, postaráš se o to."
+  },
+  "RoA_A01_M02_VO_S011_004": {
+    "type": "VO",
+    "unit_id": "GTD",
+    "unit_name": "Gavinrad the Dire",
+    "enUS": "Yes, captain.",
+    "csCZ": "Ano, kapitáne."
+  },
+  "RoA_A01_M02_VO_S012_001": {
+    "type": "VO",
+    "unit_id": "PRI",
+    "unit_name": "Prisoner",
+    "enUS": "Damn the orcs!",
+    "csCZ": "K čertu s orky!"
+  },
+  "RoA_A01_M02_VO_S012_002": {
+    "type": "VO",
+    "unit_id": "RDE",
+    "unit_name": "Regional Defender",
+    "enUS": "My sword is yours!",
+    "csCZ": "Můj meč je váš!"
+  },
+  "RoA_A01_M02_VO_S012_003": {
+    "type": "VO",
+    "unit_id": "PRI",
+    "unit_name": "Prisoner",
+    "enUS": "Help us!",
+    "csCZ": "Pomozte nám!"
+  },
+  "RoA_A01_M02_VO_S012_004": {
+    "type": "VO",
+    "unit_id": "PRI",
+    "unit_name": "Prisoner",
+    "enUS": "These wretched orcs are forcing us to work day and night!",
+    "csCZ": "Ti zpropadení orkové nás nutí pracovat dnem i nocí!"
+  },
+  "RoA_A01_M02_VO_S012_005": {
+    "type": "VO",
+    "unit_id": "PRI",
+    "unit_name": "Prisoner",
+    "enUS": "Thank you, sire!",
+    "csCZ": "Děkuji vám, pane!"
+  },
+  "RoA_A01_M02_VO_S012_006": {
+    "type": "VO",
+    "unit_id": "PRI",
+    "unit_name": "Prisoner",
+    "enUS": "Time to repay those blasted orcs in kind!",
+    "csCZ": "Je čas těm proklatým orkům oplatit stejnou mincí!"
+  },
+  "RoA_A01_M02_VO_S012_007": {
+    "type": "VO",
+    "unit_id": "RDE",
+    "unit_name": "Regional Defender",
+    "enUS": "Wretched orcs, now they’ll see.",
+    "csCZ": "Mizerní orkové, teď uvidí."
+  },
+  "RoA_A01_M02_VO_S012_008": {
+    "type": "VO",
+    "unit_id": "GTD",
+    "unit_name": "Gavinrad the Dire",
+    "enUS": "The prisoners have been freed. Now, onto Tarren Mill!",
+    "csCZ": "Vězni byli osvobozeni. A teď hurá na Tarrenův Mlýn!"
+  },
+  "RoA_A01_M02_VO_S013_001": {
+    "type": "VO",
+    "unit_id": "OCA",
+    "unit_name": "Orc Captain",
+    "enUS": "Hah! As expected, the elven stench has attracted the human insects! Kill them all warriors!",
+    "csCZ": "Hah! Jak se dalo čekat, ten elfí smrad přilákal lidské škůdce! Pobijte je všechny, válečníci!"
+  },
+  "RoA_A01_M02_VO_S013_002": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "I don’t think so!",
+    "csCZ": "To si nemyslím!"
+  },
+  "RoA_A01_M02_VO_S014_001": {
+    "type": "VO",
+    "unit_id": "MTS",
+    "unit_name": "Milan the Scribe",
+    "enUS": "Thank you, sir. We were heading to Dalaran, to help the Kirin Tor battle the Horde, but we got captured instead.",
+    "csCZ": "Děkuji, pane. Mířili jsme do Dalaranu, abychom pomohli Kirin Tor v boji proti Hordě, ale místo toho nás zajali."
+  },
+  "RoA_A01_M02_VO_S014_002": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "Haha, you should bring better scouts next time, elf. Lucky you, you’re in good company now.",
+    "csCZ": "Haha, příště byste s sebou měli vzít lepší zvědy, elfe. Máte štěstí, teď jste v dobré společnosti."
+  },
+  "RoA_A01_M02_VO_S014_003": {
+    "type": "VO",
+    "unit_id": "MTS",
+    "unit_name": "Milan the Scribe",
+    "enUS": "What's that?",
+    "csCZ": "Co je to za zvuk?"
+  },
+  "RoA_A01_M02_VO_S014_004": {
+    "type": "VO",
+    "unit_id": "DTR",
+    "unit_name": "Danath Trollbane",
+    "enUS": "That is the sound of hope.",
+    "csCZ": "To je zvuk naděje."
+  }
+}
